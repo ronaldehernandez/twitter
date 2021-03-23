@@ -31,7 +31,7 @@ Trello<br/>
 Scala/Spark<br/>
 Hive <br/>
 YARN<br/>
-AWS/SS3<br/>
+AWS/S3<br/>
 Twitter API<br/>
 Zoom/Discord<br/>
 
