@@ -20,7 +20,7 @@ We want to find factors (such as hashtags, specific keywords, emojis, etc.) that
 3) Establish criteria for positive/negative tweets
 4) Read in and process data from online twitter API
 5) Set-up code/queries to perform analysis
-6) Set-up cloud computing, such as AWS/EC2/SS3
+6) Set-up cloud computing, such as AWS/EC2/S3
 7) Submit to cloud computing platform(s) and run analysis
 8) Extract analysis/findings
 9) Compile all findings and conclusions into a final presentation
