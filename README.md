@@ -1,5 +1,4 @@
 # Project 2: Analysis of Twitter Data
-Ronald Hernandez, Romell Pineda, Michael Stanco
 
 ## Main/Broad Questions to Answer
 Are tweets generally positive or negative?<br/>
